@@ -1,0 +1,32 @@
+﻿生成启动时间为 2017/10/15 11:06:01。
+     1>项目“C:\Users\lenovo\Desktop\test\test-output\test-output\test-output.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\test-output.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\VS 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt output.cpp
+         output.cpp
+     1>c:\users\lenovo\desktop\test\test-output\test-output\output.cpp(237): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\lenovo\desktop\test\test-output\test-output\output.cpp(84): warning C4715: “get_department”: 不是所有的控件路径都返回值
+     1>c:\users\lenovo\desktop\test\test-output\test-output\output.cpp(93): warning C4715: “get_student”: 不是所有的控件路径都返回值
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\test\test-output\Debug\test-output.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test-output.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lenovo\Desktop\test\test-output\Debug\test-output.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\test\test-output\Debug\test-output.lib" /MACHINE:X86 "Debug\test-output.exe.embed.manifest.res"
+         Debug\cJSON.obj
+         Debug\output.obj
+            正在创建库 C:\Users\lenovo\Desktop\test\test-output\Debug\test-output.lib 和对象 C:\Users\lenovo\Desktop\test\test-output\Debug\test-output.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\test-output.exe.embed.manifest" /manifest "Debug\test-output.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         test-output.vcxproj -> C:\Users\lenovo\Desktop\test\test-output\Debug\test-output.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\test-output.unsuccessfulbuild”。
+         正在对“Debug\test-output.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\lenovo\Desktop\test\test-output\test-output\test-output.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.16

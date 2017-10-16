@@ -1,0 +1,1104 @@
+{
+	"departments":	[{
+			"department_no":	"D0000",
+			"member_limit":	12,
+			"tags":	["art", "music", "read", "science"],
+			"event_schedules":	["Saturday-afternoon", "Saturday-evening", "Wednesday-evening"]
+		}, {
+			"department_no":	"D0001",
+			"member_limit":	3,
+			"tags":	["interact", "music", "write"],
+			"event_schedules":	["Sunday-morning"]
+		}, {
+			"department_no":	"D0002",
+			"member_limit":	6,
+			"tags":	["exercise", "history", "read", "write"],
+			"event_schedules":	["Firday-evenday"]
+		}, {
+			"department_no":	"D0003",
+			"member_limit":	0,
+			"tags":	["history", "read", "science", "study"],
+			"event_schedules":	["Firday-evenday", "Saturday-evening", "Saturday-morning"]
+		}, {
+			"department_no":	"D0004",
+			"member_limit":	0,
+			"tags":	["science"],
+			"event_schedules":	["Saturday-afternoon", "Saturday-morning"]
+		}, {
+			"department_no":	"D0005",
+			"member_limit":	6,
+			"tags":	["science"],
+			"event_schedules":	["Monday-evening", "Wednesday-evening"]
+		}, {
+			"department_no":	"D0006",
+			"member_limit":	5,
+			"tags":	["history", "read", "write"],
+			"event_schedules":	["Monday-evening", "Saturday-evening", "Wednesday-evening"]
+		}, {
+			"department_no":	"D0007",
+			"member_limit":	7,
+			"tags":	["music", "science", "write"],
+			"event_schedules":	["Firday-evenday", "Wednesday-evening"]
+		}, {
+			"department_no":	"D0008",
+			"member_limit":	8,
+			"tags":	["relax", "write"],
+			"event_schedules":	["Saturday-afternoon"]
+		}, {
+			"department_no":	"D0009",
+			"member_limit":	2,
+			"tags":	["history", "read", "science"],
+			"event_schedules":	["Saturday-morning", "Sunday-morning", "Wednesday-evening"]
+		}, {
+			"department_no":	"D0010",
+			"member_limit":	6,
+			"tags":	["art", "exercise", "interact"],
+			"event_schedules":	["Firday-evenday", "Saturday-morning", "Sunday-morning"]
+		}, {
+			"department_no":	"D0011",
+			"member_limit":	8,
+			"tags":	["exercise", "history", "interact", "music", "read"],
+			"event_schedules":	["Tuesday-evening"]
+		}, {
+			"department_no":	"D0012",
+			"member_limit":	7,
+			"tags":	["write"],
+			"event_schedules":	["Saturday-morning"]
+		}, {
+			"department_no":	"D0013",
+			"member_limit":	7,
+			"tags":	["relax", "science", "write"],
+			"event_schedules":	["Monday-evening", "Saturday-evening"]
+		}, {
+			"department_no":	"D0014",
+			"member_limit":	4,
+			"tags":	["art", "exercise", "history", "study"],
+			"event_schedules":	["Thursday-evening"]
+		}, {
+			"department_no":	"D0015",
+			"member_limit":	5,
+			"tags":	["music", "relax"],
+			"event_schedules":	["Monday-evening", "Saturday-morning"]
+		}, {
+			"department_no":	"D0016",
+			"member_limit":	12,
+			"tags":	["interact", "relax"],
+			"event_schedules":	["Monday-evening", "Sunday-morning", "Thursday-evening"]
+		}, {
+			"department_no":	"D0017",
+			"member_limit":	11,
+			"tags":	["interact", "music"],
+			"event_schedules":	["Saturday-morning"]
+		}, {
+			"department_no":	"D0018",
+			"member_limit":	0,
+			"tags":	["art", "music", "relax", "science"],
+			"event_schedules":	["Saturday-evening", "Sunday-morning"]
+		}, {
+			"department_no":	"D0019",
+			"member_limit":	11,
+			"tags":	["art", "study"],
+			"event_schedules":	["Thursday-evening", "Wednesday-evening"]
+		}],
+	"students":	[{
+			"student_no":	"S0000",
+			"student_gpa":	4.25,
+			"tags":	["history", "interact", "read", "study"],
+			"student_aspirations":	["D0000", "D0004", "D0008", "D0012", "D0015"]
+		}, {
+			"student_no":	"S0001",
+			"student_gpa":	4.33,
+			"tags":	["art"],
+			"student_aspirations":	["D0002", "D0014", "D0019"]
+		}, {
+			"student_no":	"S0002",
+			"student_gpa":	3.12,
+			"tags":	["art", "history", "relax", "science"],
+			"student_aspirations":	["D0000", "D0002", "D0003", "D0005", "D0007"]
+		}, {
+			"student_no":	"S0003",
+			"student_gpa":	4.76,
+			"tags":	["interact"],
+			"student_aspirations":	["D0017"]
+		}, {
+			"student_no":	"S0004",
+			"student_gpa":	4.66,
+			"tags":	["art", "history", "read", "study"],
+			"student_aspirations":	["D0002", "D0004", "D0017", "D0019"]
+		}, {
+			"student_no":	"S0005",
+			"student_gpa":	2.86,
+			"tags":	["exercise", "history", "study"],
+			"student_aspirations":	["D0016"]
+		}, {
+			"student_no":	"S0006",
+			"student_gpa":	2.81,
+			"tags":	["music", "relax"],
+			"student_aspirations":	["D0000"]
+		}, {
+			"student_no":	"S0007",
+			"student_gpa":	1.85,
+			"tags":	["exercise"],
+			"student_aspirations":	["D0005", "D0012", "D0015", "D0018"]
+		}, {
+			"student_no":	"S0008",
+			"student_gpa":	4.12,
+			"tags":	["history", "music"],
+			"student_aspirations":	["D0004", "D0005", "D0013", "D0018"]
+		}, {
+			"student_no":	"S0009",
+			"student_gpa":	4.61,
+			"tags":	["exercise", "history", "read", "study"],
+			"student_aspirations":	["D0012"]
+		}, {
+			"student_no":	"S0010",
+			"student_gpa":	0.74,
+			"tags":	["art", "exercise", "interact", "science"],
+			"student_aspirations":	["D0000", "D0004", "D0005", "D0006", "D0016"]
+		}, {
+			"student_no":	"S0011",
+			"student_gpa":	2.5,
+			"tags":	["art", "music", "relax", "study"],
+			"student_aspirations":	["D0007", "D0017"]
+		}, {
+			"student_no":	"S0012",
+			"student_gpa":	2.87,
+			"tags":	["history"],
+			"student_aspirations":	["D0017"]
+		}, {
+			"student_no":	"S0013",
+			"student_gpa":	1.56,
+			"tags":	["art", "exercise", "history", "interact", "relax"],
+			"student_aspirations":	["D0005", "D0011"]
+		}, {
+			"student_no":	"S0014",
+			"student_gpa":	3.96,
+			"tags":	["art", "interact"],
+			"student_aspirations":	["D0006", "D0008", "D0013", "D0017", "D0018"]
+		}, {
+			"student_no":	"S0015",
+			"student_gpa":	4.15,
+			"tags":	["science"],
+			"student_aspirations":	["D0000", "D0015", "D0016", "D0017", "D0019"]
+		}, {
+			"student_no":	"S0016",
+			"student_gpa":	4.32,
+			"tags":	["art"],
+			"student_aspirations":	["D0002", "D0012", "D0014"]
+		}, {
+			"student_no":	"S0017",
+			"student_gpa":	3.58,
+			"tags":	["history"],
+			"student_aspirations":	["D0001", "D0008", "D0012", "D0013"]
+		}, {
+			"student_no":	"S0018",
+			"student_gpa":	0.3,
+			"tags":	["art"],
+			"student_aspirations":	["D0011", "D0017", "D0019"]
+		}, {
+			"student_no":	"S0019",
+			"student_gpa":	3.23,
+			"tags":	["art", "relax", "science"],
+			"student_aspirations":	["D0000", "D0006", "D0012"]
+		}, {
+			"student_no":	"S0020",
+			"student_gpa":	2.62,
+			"tags":	["exercise", "interact", "music", "read"],
+			"student_aspirations":	["D0000", "D0007", "D0011"]
+		}, {
+			"student_no":	"S0021",
+			"student_gpa":	2.84,
+			"tags":	["art", "exercise", "history", "science"],
+			"student_aspirations":	["D0002", "D0007", "D0008", "D0014", "D0015"]
+		}, {
+			"student_no":	"S0022",
+			"student_gpa":	0.4,
+			"tags":	["interact", "read", "relax", "science"],
+			"student_aspirations":	["D0003", "D0009", "D0010", "D0011"]
+		}, {
+			"student_no":	"S0023",
+			"student_gpa":	3.23,
+			"tags":	["music", "read", "relax", "study"],
+			"student_aspirations":	["D0011"]
+		}, {
+			"student_no":	"S0024",
+			"student_gpa":	1.32,
+			"tags":	["interact", "music", "read", "relax"],
+			"student_aspirations":	["D0016", "D0018"]
+		}, {
+			"student_no":	"S0025",
+			"student_gpa":	1.52,
+			"tags":	["art", "interact", "study"],
+			"student_aspirations":	["D0004", "D0005", "D0006", "D0007"]
+		}, {
+			"student_no":	"S0026",
+			"student_gpa":	4.45,
+			"tags":	["science"],
+			"student_aspirations":	["D0007", "D0009", "D0016", "D0018"]
+		}, {
+			"student_no":	"S0027",
+			"student_gpa":	1.51,
+			"tags":	["art", "history", "interact"],
+			"student_aspirations":	["D0000", "D0007", "D0011"]
+		}, {
+			"student_no":	"S0028",
+			"student_gpa":	2.46,
+			"tags":	["read", "relax", "science"],
+			"student_aspirations":	["D0004", "D0012", "D0014"]
+		}, {
+			"student_no":	"S0029",
+			"student_gpa":	1.54,
+			"tags":	["history", "science"],
+			"student_aspirations":	["D0001"]
+		}, {
+			"student_no":	"S0030",
+			"student_gpa":	2.03,
+			"tags":	["art", "exercise", "science"],
+			"student_aspirations":	["D0007"]
+		}, {
+			"student_no":	"S0031",
+			"student_gpa":	3.13,
+			"tags":	["art", "exercise", "interact", "science"],
+			"student_aspirations":	["D0000", "D0010", "D0011", "D0013", "D0018"]
+		}, {
+			"student_no":	"S0032",
+			"student_gpa":	3.86,
+			"tags":	["exercise", "interact", "relax", "study"],
+			"student_aspirations":	["D0001"]
+		}, {
+			"student_no":	"S0033",
+			"student_gpa":	4.93,
+			"tags":	["history", "science"],
+			"student_aspirations":	["D0003", "D0006", "D0018"]
+		}, {
+			"student_no":	"S0034",
+			"student_gpa":	3.28,
+			"tags":	["exercise", "relax", "study"],
+			"student_aspirations":	["D0001", "D0005", "D0016"]
+		}, {
+			"student_no":	"S0035",
+			"student_gpa":	0.51,
+			"tags":	["art", "history", "relax", "study"],
+			"student_aspirations":	["D0002", "D0007", "D0009", "D0014", "D0016"]
+		}, {
+			"student_no":	"S0036",
+			"student_gpa":	3.42,
+			"tags":	["interact", "science"],
+			"student_aspirations":	["D0009", "D0011"]
+		}, {
+			"student_no":	"S0037",
+			"student_gpa":	3.44,
+			"tags":	["history", "interact", "read", "science"],
+			"student_aspirations":	["D0001", "D0010", "D0016", "D0019"]
+		}, {
+			"student_no":	"S0038",
+			"student_gpa":	3.72,
+			"tags":	["art", "read", "relax", "study"],
+			"student_aspirations":	["D0008", "D0010"]
+		}, {
+			"student_no":	"S0039",
+			"student_gpa":	2.39,
+			"tags":	["science"],
+			"student_aspirations":	["D0000"]
+		}, {
+			"student_no":	"S0040",
+			"student_gpa":	0.03,
+			"tags":	["interact"],
+			"student_aspirations":	["D0015"]
+		}, {
+			"student_no":	"S0041",
+			"student_gpa":	1.46,
+			"tags":	["art", "exercise", "study"],
+			"student_aspirations":	["D0000", "D0006", "D0009"]
+		}, {
+			"student_no":	"S0042",
+			"student_gpa":	0,
+			"tags":	["art", "exercise", "science"],
+			"student_aspirations":	["D0006", "D0009"]
+		}, {
+			"student_no":	"S0043",
+			"student_gpa":	3.04,
+			"tags":	["read", "study"],
+			"student_aspirations":	["D0013", "D0017", "D0018"]
+		}, {
+			"student_no":	"S0044",
+			"student_gpa":	0.43,
+			"tags":	["art", "science", "study"],
+			"student_aspirations":	["D0005", "D0013"]
+		}, {
+			"student_no":	"S0045",
+			"student_gpa":	0.87,
+			"tags":	["read", "study"],
+			"student_aspirations":	["D0008"]
+		}, {
+			"student_no":	"S0046",
+			"student_gpa":	3.77,
+			"tags":	["interact", "study"],
+			"student_aspirations":	["D0006", "D0011", "D0017"]
+		}, {
+			"student_no":	"S0047",
+			"student_gpa":	0.51,
+			"tags":	["exercise", "read", "relax"],
+			"student_aspirations":	["D0001", "D0006", "D0009", "D0014", "D0016"]
+		}, {
+			"student_no":	"S0048",
+			"student_gpa":	0.12,
+			"tags":	["history"],
+			"student_aspirations":	["D0001", "D0006"]
+		}, {
+			"student_no":	"S0049",
+			"student_gpa":	4.84,
+			"tags":	["art", "music"],
+			"student_aspirations":	["D0015"]
+		}, {
+			"student_no":	"S0050",
+			"student_gpa":	2.21,
+			"tags":	["history", "science"],
+			"student_aspirations":	["D0003", "D0007", "D0009", "D0018"]
+		}, {
+			"student_no":	"S0051",
+			"student_gpa":	2.03,
+			"tags":	["history", "interact", "music", "science"],
+			"student_aspirations":	["D0007", "D0017"]
+		}, {
+			"student_no":	"S0052",
+			"student_gpa":	4.08,
+			"tags":	["art", "music", "science"],
+			"student_aspirations":	["D0000", "D0003", "D0017"]
+		}, {
+			"student_no":	"S0053",
+			"student_gpa":	4.8,
+			"tags":	["exercise", "interact", "relax", "study"],
+			"student_aspirations":	["D0007", "D0016", "D0017"]
+		}, {
+			"student_no":	"S0054",
+			"student_gpa":	0.69,
+			"tags":	["history"],
+			"student_aspirations":	["D0011", "D0017"]
+		}, {
+			"student_no":	"S0055",
+			"student_gpa":	3.62,
+			"tags":	["interact", "music", "relax"],
+			"student_aspirations":	["D0002", "D0007", "D0011", "D0012", "D0018"]
+		}, {
+			"student_no":	"S0056",
+			"student_gpa":	3.32,
+			"tags":	["exercise", "history"],
+			"student_aspirations":	["D0002", "D0006", "D0008"]
+		}, {
+			"student_no":	"S0057",
+			"student_gpa":	1.75,
+			"tags":	["art", "exercise", "history", "read"],
+			"student_aspirations":	["D0013"]
+		}, {
+			"student_no":	"S0058",
+			"student_gpa":	2.2,
+			"tags":	["history", "relax"],
+			"student_aspirations":	["D0000"]
+		}, {
+			"student_no":	"S0059",
+			"student_gpa":	3.87,
+			"tags":	["art", "history", "interact", "music", "study"],
+			"student_aspirations":	["D0004", "D0006", "D0012"]
+		}, {
+			"student_no":	"S0060",
+			"student_gpa":	4.33,
+			"tags":	["exercise", "music"],
+			"student_aspirations":	["D0002", "D0014"]
+		}, {
+			"student_no":	"S0061",
+			"student_gpa":	4.71,
+			"tags":	["music", "science"],
+			"student_aspirations":	["D0006", "D0007", "D0019"]
+		}, {
+			"student_no":	"S0062",
+			"student_gpa":	1.63,
+			"tags":	["exercise", "science"],
+			"student_aspirations":	["D0002", "D0008", "D0010", "D0017"]
+		}, {
+			"student_no":	"S0063",
+			"student_gpa":	3.6,
+			"tags":	["music"],
+			"student_aspirations":	["D0015"]
+		}, {
+			"student_no":	"S0064",
+			"student_gpa":	4.4,
+			"tags":	["exercise", "history", "interact", "relax"],
+			"student_aspirations":	["D0001", "D0003", "D0008", "D0017"]
+		}, {
+			"student_no":	"S0065",
+			"student_gpa":	1.74,
+			"tags":	["music", "relax"],
+			"student_aspirations":	["D0003", "D0011"]
+		}, {
+			"student_no":	"S0066",
+			"student_gpa":	0.86,
+			"tags":	["relax"],
+			"student_aspirations":	["D0001", "D0002", "D0006"]
+		}, {
+			"student_no":	"S0067",
+			"student_gpa":	1.97,
+			"tags":	["study"],
+			"student_aspirations":	["D0003", "D0004", "D0015", "D0019"]
+		}, {
+			"student_no":	"S0068",
+			"student_gpa":	3.84,
+			"tags":	["interact", "relax", "study"],
+			"student_aspirations":	["D0003", "D0007", "D0012", "D0016", "D0018"]
+		}, {
+			"student_no":	"S0069",
+			"student_gpa":	3.88,
+			"tags":	["exercise", "relax", "science"],
+			"student_aspirations":	["D0007", "D0010"]
+		}, {
+			"student_no":	"S0070",
+			"student_gpa":	1.41,
+			"tags":	["art"],
+			"student_aspirations":	["D0002", "D0004", "D0008", "D0017"]
+		}, {
+			"student_no":	"S0071",
+			"student_gpa":	0.61,
+			"tags":	["science"],
+			"student_aspirations":	["D0015"]
+		}, {
+			"student_no":	"S0072",
+			"student_gpa":	2.69,
+			"tags":	["exercise", "interact", "music"],
+			"student_aspirations":	["D0015"]
+		}, {
+			"student_no":	"S0073",
+			"student_gpa":	2.57,
+			"tags":	["art", "music", "science"],
+			"student_aspirations":	["D0000", "D0008", "D0012"]
+		}, {
+			"student_no":	"S0074",
+			"student_gpa":	3.78,
+			"tags":	["art", "exercise", "music", "relax"],
+			"student_aspirations":	["D0003", "D0006", "D0009"]
+		}, {
+			"student_no":	"S0075",
+			"student_gpa":	2.37,
+			"tags":	["interact"],
+			"student_aspirations":	["D0008"]
+		}, {
+			"student_no":	"S0076",
+			"student_gpa":	1.67,
+			"tags":	["art", "read", "science"],
+			"student_aspirations":	["D0006", "D0011", "D0018"]
+		}, {
+			"student_no":	"S0077",
+			"student_gpa":	0.21,
+			"tags":	["history", "study"],
+			"student_aspirations":	["D0002", "D0004", "D0009", "D0011"]
+		}, {
+			"student_no":	"S0078",
+			"student_gpa":	2.18,
+			"tags":	["read"],
+			"student_aspirations":	["D0000", "D0010", "D0013", "D0014", "D0018"]
+		}, {
+			"student_no":	"S0079",
+			"student_gpa":	1.13,
+			"tags":	["art", "exercise", "history"],
+			"student_aspirations":	["D0002", "D0019"]
+		}, {
+			"student_no":	"S0080",
+			"student_gpa":	0.73,
+			"tags":	["exercise", "music", "relax"],
+			"student_aspirations":	["D0002", "D0003", "D0014"]
+		}, {
+			"student_no":	"S0081",
+			"student_gpa":	4.74,
+			"tags":	["art", "exercise", "music", "science"],
+			"student_aspirations":	["D0013"]
+		}, {
+			"student_no":	"S0082",
+			"student_gpa":	4.83,
+			"tags":	["exercise", "study"],
+			"student_aspirations":	["D0000", "D0002", "D0003", "D0012"]
+		}, {
+			"student_no":	"S0083",
+			"student_gpa":	3.45,
+			"tags":	["history", "read", "science"],
+			"student_aspirations":	["D0004", "D0005", "D0016"]
+		}, {
+			"student_no":	"S0084",
+			"student_gpa":	0.08,
+			"tags":	["study"],
+			"student_aspirations":	["D0000", "D0002", "D0006", "D0009", "D0019"]
+		}, {
+			"student_no":	"S0085",
+			"student_gpa":	0.1,
+			"tags":	["art", "science", "study"],
+			"student_aspirations":	["D0010", "D0018"]
+		}, {
+			"student_no":	"S0086",
+			"student_gpa":	4.01,
+			"tags":	["exercise", "music", "read"],
+			"student_aspirations":	["D0002", "D0004", "D0006", "D0011"]
+		}, {
+			"student_no":	"S0087",
+			"student_gpa":	2.77,
+			"tags":	["read", "science"],
+			"student_aspirations":	["D0005", "D0007", "D0008", "D0014", "D0015"]
+		}, {
+			"student_no":	"S0088",
+			"student_gpa":	0.15,
+			"tags":	["interact", "music"],
+			"student_aspirations":	["D0002", "D0005", "D0006", "D0017"]
+		}, {
+			"student_no":	"S0089",
+			"student_gpa":	1.81,
+			"tags":	["art", "interact", "music"],
+			"student_aspirations":	["D0002", "D0014"]
+		}, {
+			"student_no":	"S0090",
+			"student_gpa":	1.79,
+			"tags":	["interact", "relax", "science"],
+			"student_aspirations":	["D0003"]
+		}, {
+			"student_no":	"S0091",
+			"student_gpa":	0.89,
+			"tags":	["science"],
+			"student_aspirations":	["D0001", "D0011", "D0017", "D0018"]
+		}, {
+			"student_no":	"S0092",
+			"student_gpa":	2.84,
+			"tags":	["read"],
+			"student_aspirations":	["D0004", "D0005", "D0012", "D0018"]
+		}, {
+			"student_no":	"S0093",
+			"student_gpa":	3.13,
+			"tags":	["exercise", "history", "read", "relax"],
+			"student_aspirations":	["D0011"]
+		}, {
+			"student_no":	"S0094",
+			"student_gpa":	4.84,
+			"tags":	["art", "history", "music", "read", "relax"],
+			"student_aspirations":	["D0002", "D0003"]
+		}, {
+			"student_no":	"S0095",
+			"student_gpa":	1.52,
+			"tags":	["music", "read", "relax", "study"],
+			"student_aspirations":	["D0001", "D0005", "D0009", "D0011"]
+		}, {
+			"student_no":	"S0096",
+			"student_gpa":	4.14,
+			"tags":	["exercise", "music", "read", "relax"],
+			"student_aspirations":	["D0003", "D0006", "D0009", "D0017"]
+		}, {
+			"student_no":	"S0097",
+			"student_gpa":	4.16,
+			"tags":	["exercise", "history"],
+			"student_aspirations":	["D0001", "D0009", "D0011", "D0016"]
+		}, {
+			"student_no":	"S0098",
+			"student_gpa":	2.25,
+			"tags":	["interact"],
+			"student_aspirations":	["D0006", "D0015"]
+		}, {
+			"student_no":	"S0099",
+			"student_gpa":	4.54,
+			"tags":	["art", "science", "study"],
+			"student_aspirations":	["D0014"]
+		}, {
+			"student_no":	"S0100",
+			"student_gpa":	4.33,
+			"tags":	["exercise", "read", "study"],
+			"student_aspirations":	["D0013"]
+		}, {
+			"student_no":	"S0101",
+			"student_gpa":	3.93,
+			"tags":	["exercise"],
+			"student_aspirations":	["D0000", "D0003", "D0012", "D0015", "D0018"]
+		}, {
+			"student_no":	"S0102",
+			"student_gpa":	0.33,
+			"tags":	["art", "read", "science", "study"],
+			"student_aspirations":	["D0009", "D0014", "D0018"]
+		}, {
+			"student_no":	"S0103",
+			"student_gpa":	3.51,
+			"tags":	["exercise", "interact", "relax", "science", "study"],
+			"student_aspirations":	["D0011"]
+		}, {
+			"student_no":	"S0104",
+			"student_gpa":	3.03,
+			"tags":	["history", "relax"],
+			"student_aspirations":	["D0005", "D0006", "D0009", "D0011"]
+		}, {
+			"student_no":	"S0105",
+			"student_gpa":	2.48,
+			"tags":	["music"],
+			"student_aspirations":	["D0001", "D0006", "D0013", "D0015"]
+		}, {
+			"student_no":	"S0106",
+			"student_gpa":	2.76,
+			"tags":	["interact", "read"],
+			"student_aspirations":	["D0001", "D0006", "D0007", "D0015", "D0017"]
+		}, {
+			"student_no":	"S0107",
+			"student_gpa":	3.38,
+			"tags":	["history", "study"],
+			"student_aspirations":	["D0003", "D0011", "D0015", "D0016"]
+		}, {
+			"student_no":	"S0108",
+			"student_gpa":	2.08,
+			"tags":	["read"],
+			"student_aspirations":	["D0005", "D0010", "D0012"]
+		}, {
+			"student_no":	"S0109",
+			"student_gpa":	2.75,
+			"tags":	["science"],
+			"student_aspirations":	["D0003", "D0004", "D0009", "D0011"]
+		}, {
+			"student_no":	"S0110",
+			"student_gpa":	2.36,
+			"tags":	["read", "relax", "science"],
+			"student_aspirations":	["D0008", "D0018", "D0019"]
+		}, {
+			"student_no":	"S0111",
+			"student_gpa":	4.18,
+			"tags":	["history", "study"],
+			"student_aspirations":	["D0018"]
+		}, {
+			"student_no":	"S0112",
+			"student_gpa":	3.96,
+			"tags":	["art", "exercise", "music"],
+			"student_aspirations":	["D0008", "D0011", "D0018"]
+		}, {
+			"student_no":	"S0113",
+			"student_gpa":	2.53,
+			"tags":	["music", "relax"],
+			"student_aspirations":	["D0003", "D0016", "D0017"]
+		}, {
+			"student_no":	"S0114",
+			"student_gpa":	4.65,
+			"tags":	["science"],
+			"student_aspirations":	["D0000", "D0014"]
+		}, {
+			"student_no":	"S0115",
+			"student_gpa":	4.87,
+			"tags":	["interact", "music", "read"],
+			"student_aspirations":	["D0000", "D0008"]
+		}, {
+			"student_no":	"S0116",
+			"student_gpa":	2.79,
+			"tags":	["music", "read"],
+			"student_aspirations":	["D0010", "D0011", "D0015"]
+		}, {
+			"student_no":	"S0117",
+			"student_gpa":	4.89,
+			"tags":	["history", "music"],
+			"student_aspirations":	["D0008"]
+		}, {
+			"student_no":	"S0118",
+			"student_gpa":	4.15,
+			"tags":	["art", "exercise", "history"],
+			"student_aspirations":	["D0005", "D0017"]
+		}, {
+			"student_no":	"S0119",
+			"student_gpa":	1.56,
+			"tags":	["art", "interact"],
+			"student_aspirations":	["D0013"]
+		}, {
+			"student_no":	"S0120",
+			"student_gpa":	0.73,
+			"tags":	["exercise", "music", "read", "science"],
+			"student_aspirations":	["D0001", "D0007", "D0008", "D0010", "D0019"]
+		}, {
+			"student_no":	"S0121",
+			"student_gpa":	4.9,
+			"tags":	["science", "study"],
+			"student_aspirations":	["D0008"]
+		}, {
+			"student_no":	"S0122",
+			"student_gpa":	2.5,
+			"tags":	["music"],
+			"student_aspirations":	["D0013", "D0017", "D0019"]
+		}, {
+			"student_no":	"S0123",
+			"student_gpa":	1.28,
+			"tags":	["exercise", "science"],
+			"student_aspirations":	["D0009", "D0014"]
+		}, {
+			"student_no":	"S0124",
+			"student_gpa":	3.39,
+			"tags":	["art"],
+			"student_aspirations":	["D0000", "D0001", "D0012", "D0017"]
+		}, {
+			"student_no":	"S0125",
+			"student_gpa":	3.22,
+			"tags":	["relax"],
+			"student_aspirations":	["D0002", "D0014", "D0017", "D0018"]
+		}, {
+			"student_no":	"S0126",
+			"student_gpa":	2.65,
+			"tags":	["interact", "music", "read", "relax"],
+			"student_aspirations":	["D0010", "D0012", "D0014"]
+		}, {
+			"student_no":	"S0127",
+			"student_gpa":	2.79,
+			"tags":	["art", "interact", "science", "study"],
+			"student_aspirations":	["D0009"]
+		}, {
+			"student_no":	"S0128",
+			"student_gpa":	2.38,
+			"tags":	["history", "interact", "music", "read"],
+			"student_aspirations":	["D0010"]
+		}, {
+			"student_no":	"S0129",
+			"student_gpa":	3.59,
+			"tags":	["music", "read", "relax", "science"],
+			"student_aspirations":	["D0005", "D0010", "D0013", "D0015", "D0016"]
+		}, {
+			"student_no":	"S0130",
+			"student_gpa":	3.73,
+			"tags":	["history", "interact", "read"],
+			"student_aspirations":	["D0003", "D0007", "D0011", "D0012", "D0018"]
+		}, {
+			"student_no":	"S0131",
+			"student_gpa":	0.59,
+			"tags":	["art"],
+			"student_aspirations":	["D0003", "D0007", "D0012"]
+		}, {
+			"student_no":	"S0132",
+			"student_gpa":	2.75,
+			"tags":	["art", "history", "interact", "music"],
+			"student_aspirations":	["D0001", "D0012"]
+		}, {
+			"student_no":	"S0133",
+			"student_gpa":	1.17,
+			"tags":	["music"],
+			"student_aspirations":	["D0014"]
+		}, {
+			"student_no":	"S0134",
+			"student_gpa":	0.6,
+			"tags":	["interact"],
+			"student_aspirations":	["D0001", "D0002", "D0016"]
+		}, {
+			"student_no":	"S0135",
+			"student_gpa":	3.9,
+			"tags":	["music"],
+			"student_aspirations":	["D0001"]
+		}, {
+			"student_no":	"S0136",
+			"student_gpa":	2.59,
+			"tags":	["art", "study"],
+			"student_aspirations":	["D0005", "D0016"]
+		}, {
+			"student_no":	"S0137",
+			"student_gpa":	3.41,
+			"tags":	["art", "science"],
+			"student_aspirations":	["D0006", "D0010", "D0019"]
+		}, {
+			"student_no":	"S0138",
+			"student_gpa":	0.17,
+			"tags":	["art"],
+			"student_aspirations":	["D0001", "D0002", "D0011", "D0017"]
+		}, {
+			"student_no":	"S0139",
+			"student_gpa":	0.61,
+			"tags":	["interact", "relax", "science"],
+			"student_aspirations":	["D0002", "D0006", "D0011"]
+		}, {
+			"student_no":	"S0140",
+			"student_gpa":	4.28,
+			"tags":	["read", "relax"],
+			"student_aspirations":	["D0006", "D0012", "D0017"]
+		}, {
+			"student_no":	"S0141",
+			"student_gpa":	2.49,
+			"tags":	["music", "relax"],
+			"student_aspirations":	["D0005", "D0008"]
+		}, {
+			"student_no":	"S0142",
+			"student_gpa":	1.19,
+			"tags":	["interact"],
+			"student_aspirations":	["D0000", "D0001", "D0008", "D0010", "D0012"]
+		}, {
+			"student_no":	"S0143",
+			"student_gpa":	0.93,
+			"tags":	["art", "study"],
+			"student_aspirations":	["D0008", "D0013"]
+		}, {
+			"student_no":	"S0144",
+			"student_gpa":	0.55,
+			"tags":	["interact", "music", "science"],
+			"student_aspirations":	["D0015", "D0018"]
+		}, {
+			"student_no":	"S0145",
+			"student_gpa":	2.49,
+			"tags":	["art", "interact", "music", "science", "study"],
+			"student_aspirations":	["D0002", "D0009", "D0017"]
+		}, {
+			"student_no":	"S0146",
+			"student_gpa":	3.46,
+			"tags":	["exercise", "relax", "study"],
+			"student_aspirations":	["D0000", "D0018"]
+		}, {
+			"student_no":	"S0147",
+			"student_gpa":	3.29,
+			"tags":	["art", "study"],
+			"student_aspirations":	["D0000", "D0002"]
+		}, {
+			"student_no":	"S0148",
+			"student_gpa":	3.47,
+			"tags":	["history", "music", "study"],
+			"student_aspirations":	["D0003", "D0007"]
+		}, {
+			"student_no":	"S0149",
+			"student_gpa":	3.86,
+			"tags":	["interact", "relax"],
+			"student_aspirations":	["D0003", "D0007", "D0019"]
+		}, {
+			"student_no":	"S0150",
+			"student_gpa":	3.64,
+			"tags":	["history", "interact", "read"],
+			"student_aspirations":	["D0004", "D0007"]
+		}, {
+			"student_no":	"S0151",
+			"student_gpa":	4.36,
+			"tags":	["interact", "relax", "study"],
+			"student_aspirations":	["D0004", "D0012"]
+		}, {
+			"student_no":	"S0152",
+			"student_gpa":	1.94,
+			"tags":	["art", "exercise", "history", "interact", "relax"],
+			"student_aspirations":	["D0001", "D0010", "D0011"]
+		}, {
+			"student_no":	"S0153",
+			"student_gpa":	1.93,
+			"tags":	["interact", "music", "relax"],
+			"student_aspirations":	["D0004", "D0005", "D0008", "D0010", "D0014"]
+		}, {
+			"student_no":	"S0154",
+			"student_gpa":	1.16,
+			"tags":	["art", "exercise"],
+			"student_aspirations":	["D0007", "D0013"]
+		}, {
+			"student_no":	"S0155",
+			"student_gpa":	3.41,
+			"tags":	["art", "music", "read", "relax"],
+			"student_aspirations":	["D0000", "D0004"]
+		}, {
+			"student_no":	"S0156",
+			"student_gpa":	0.86,
+			"tags":	["art", "exercise", "history", "music", "relax"],
+			"student_aspirations":	["D0004", "D0005", "D0008", "D0016"]
+		}, {
+			"student_no":	"S0157",
+			"student_gpa":	4.59,
+			"tags":	["exercise", "music", "science"],
+			"student_aspirations":	["D0002", "D0004", "D0008", "D0018"]
+		}, {
+			"student_no":	"S0158",
+			"student_gpa":	2.83,
+			"tags":	["science"],
+			"student_aspirations":	["D0002", "D0014", "D0016"]
+		}, {
+			"student_no":	"S0159",
+			"student_gpa":	1.04,
+			"tags":	["music", "read"],
+			"student_aspirations":	["D0000", "D0006", "D0009", "D0011", "D0013"]
+		}, {
+			"student_no":	"S0160",
+			"student_gpa":	1.71,
+			"tags":	["exercise", "interact"],
+			"student_aspirations":	["D0013", "D0014"]
+		}, {
+			"student_no":	"S0161",
+			"student_gpa":	4.5,
+			"tags":	["music", "read", "study"],
+			"student_aspirations":	["D0005", "D0006", "D0007"]
+		}, {
+			"student_no":	"S0162",
+			"student_gpa":	2.19,
+			"tags":	["exercise", "interact", "read", "relax"],
+			"student_aspirations":	["D0000", "D0006", "D0016", "D0017"]
+		}, {
+			"student_no":	"S0163",
+			"student_gpa":	3.71,
+			"tags":	["art", "music", "relax"],
+			"student_aspirations":	["D0002", "D0008", "D0015", "D0018", "D0019"]
+		}, {
+			"student_no":	"S0164",
+			"student_gpa":	1.83,
+			"tags":	["interact", "music"],
+			"student_aspirations":	["D0002", "D0009", "D0013"]
+		}, {
+			"student_no":	"S0165",
+			"student_gpa":	4.7,
+			"tags":	["exercise"],
+			"student_aspirations":	["D0008", "D0016", "D0019"]
+		}, {
+			"student_no":	"S0166",
+			"student_gpa":	2.13,
+			"tags":	["exercise", "interact", "read", "relax"],
+			"student_aspirations":	["D0009"]
+		}, {
+			"student_no":	"S0167",
+			"student_gpa":	4.65,
+			"tags":	["interact", "music", "read", "science"],
+			"student_aspirations":	["D0007", "D0012"]
+		}, {
+			"student_no":	"S0168",
+			"student_gpa":	3.95,
+			"tags":	["interact", "read", "science"],
+			"student_aspirations":	["D0001", "D0004"]
+		}, {
+			"student_no":	"S0169",
+			"student_gpa":	2.29,
+			"tags":	["exercise", "music"],
+			"student_aspirations":	["D0005"]
+		}, {
+			"student_no":	"S0170",
+			"student_gpa":	4.14,
+			"tags":	["art"],
+			"student_aspirations":	["D0011", "D0014"]
+		}, {
+			"student_no":	"S0171",
+			"student_gpa":	3.21,
+			"tags":	["music"],
+			"student_aspirations":	["D0001", "D0015", "D0019"]
+		}, {
+			"student_no":	"S0172",
+			"student_gpa":	0.4,
+			"tags":	["art", "exercise"],
+			"student_aspirations":	["D0007", "D0008", "D0015", "D0018"]
+		}, {
+			"student_no":	"S0173",
+			"student_gpa":	4.63,
+			"tags":	["art", "history", "study"],
+			"student_aspirations":	["D0001", "D0002", "D0006", "D0008", "D0013"]
+		}, {
+			"student_no":	"S0174",
+			"student_gpa":	1.94,
+			"tags":	["art", "exercise"],
+			"student_aspirations":	["D0007"]
+		}, {
+			"student_no":	"S0175",
+			"student_gpa":	0.42,
+			"tags":	["exercise", "history", "relax", "science"],
+			"student_aspirations":	["D0003", "D0005"]
+		}, {
+			"student_no":	"S0176",
+			"student_gpa":	4.96,
+			"tags":	["exercise", "interact", "relax", "study"],
+			"student_aspirations":	["D0002", "D0003", "D0011"]
+		}, {
+			"student_no":	"S0177",
+			"student_gpa":	1.26,
+			"tags":	["art", "exercise", "read", "science"],
+			"student_aspirations":	["D0007", "D0008", "D0017"]
+		}, {
+			"student_no":	"S0178",
+			"student_gpa":	0.56,
+			"tags":	["exercise"],
+			"student_aspirations":	["D0001", "D0003", "D0004", "D0010", "D0017"]
+		}, {
+			"student_no":	"S0179",
+			"student_gpa":	2.29,
+			"tags":	["art", "history"],
+			"student_aspirations":	["D0006", "D0007", "D0017"]
+		}, {
+			"student_no":	"S0180",
+			"student_gpa":	0.93,
+			"tags":	["art", "interact", "music", "relax"],
+			"student_aspirations":	["D0001"]
+		}, {
+			"student_no":	"S0181",
+			"student_gpa":	0.57,
+			"tags":	["art", "interact", "read", "relax", "science"],
+			"student_aspirations":	["D0001", "D0014"]
+		}, {
+			"student_no":	"S0182",
+			"student_gpa":	1.39,
+			"tags":	["art", "read", "relax"],
+			"student_aspirations":	["D0005", "D0012", "D0014", "D0015", "D0016"]
+		}, {
+			"student_no":	"S0183",
+			"student_gpa":	2.92,
+			"tags":	["history", "interact", "science"],
+			"student_aspirations":	["D0006", "D0013", "D0016", "D0018"]
+		}, {
+			"student_no":	"S0184",
+			"student_gpa":	4.34,
+			"tags":	["music"],
+			"student_aspirations":	["D0004", "D0005", "D0010", "D0017"]
+		}, {
+			"student_no":	"S0185",
+			"student_gpa":	0.84,
+			"tags":	["music"],
+			"student_aspirations":	["D0005"]
+		}, {
+			"student_no":	"S0186",
+			"student_gpa":	2.89,
+			"tags":	["music", "relax", "science"],
+			"student_aspirations":	["D0000", "D0008", "D0015", "D0016"]
+		}, {
+			"student_no":	"S0187",
+			"student_gpa":	4.54,
+			"tags":	["music", "relax", "science"],
+			"student_aspirations":	["D0002", "D0004", "D0012", "D0013", "D0015"]
+		}, {
+			"student_no":	"S0188",
+			"student_gpa":	4.98,
+			"tags":	["art", "interact", "read", "science"],
+			"student_aspirations":	["D0000", "D0004", "D0005", "D0010", "D0019"]
+		}, {
+			"student_no":	"S0189",
+			"student_gpa":	0.71,
+			"tags":	["exercise", "history", "interact", "music", "science"],
+			"student_aspirations":	["D0002", "D0008"]
+		}, {
+			"student_no":	"S0190",
+			"student_gpa":	1.85,
+			"tags":	["history", "interact", "music", "study"],
+			"student_aspirations":	["D0003", "D0006", "D0009", "D0019"]
+		}, {
+			"student_no":	"S0191",
+			"student_gpa":	3.76,
+			"tags":	["art", "interact", "science"],
+			"student_aspirations":	["D0004", "D0008", "D0014", "D0019"]
+		}, {
+			"student_no":	"S0192",
+			"student_gpa":	3.05,
+			"tags":	["interact"],
+			"student_aspirations":	["D0010", "D0015", "D0016"]
+		}, {
+			"student_no":	"S0193",
+			"student_gpa":	1.06,
+			"tags":	["art", "exercise", "history", "music", "relax"],
+			"student_aspirations":	["D0007", "D0008", "D0011", "D0014"]
+		}, {
+			"student_no":	"S0194",
+			"student_gpa":	2.43,
+			"tags":	["exercise", "study"],
+			"student_aspirations":	["D0004", "D0011", "D0014", "D0015"]
+		}, {
+			"student_no":	"S0195",
+			"student_gpa":	4.82,
+			"tags":	["history", "music"],
+			"student_aspirations":	["D0009", "D0019"]
+		}, {
+			"student_no":	"S0196",
+			"student_gpa":	3.78,
+			"tags":	["art", "music", "relax"],
+			"student_aspirations":	["D0002", "D0008", "D0009"]
+		}, {
+			"student_no":	"S0197",
+			"student_gpa":	2.53,
+			"tags":	["art", "history", "interact"],
+			"student_aspirations":	["D0000", "D0003", "D0010", "D0019"]
+		}, {
+			"student_no":	"S0198",
+			"student_gpa":	0.89,
+			"tags":	["history", "interact", "read", "science"],
+			"student_aspirations":	["D0006"]
+		}, {
+			"student_no":	"S0199",
+			"student_gpa":	4.44,
+			"tags":	["art", "history", "interact"],
+			"student_aspirations":	["D0000", "D0008", "D0009", "D0017"]
+		}]
+}
